@@ -12,4 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81de8d6a645c234428f6f997af1bdcfa, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: "Siedzisz w Zbrojowni. od kilku godzin czy\u015Bcisz swoj\u0105 zbroj\u0119
+    i bro\u0144, gdy\u017C przez ostatnie kilka dni nie mia\u0142e\u015B na to czasu.
+    Tw\xF3j osprz\u0119t zd\u0105\u017Cy\u0142\r przez w mi\u0119dzy czasie zapozna\u0107
+    si\u0119 z rdz\u0105. Nagle wpada pos\u0142aniec\"Panie, nasz W\u0142adca ci\u0119
+    wzywa!\". Pos\u0142aneic odchodzi, a ty zazynasz zak\u0142ada\u0107 rynsztunek.\r\nMy\u015Bli
+    ko\u0142acz\u0105 ci si\u0119 po g\u0142owie \"Czy co\u015B przeskroba\u0142em?
+    Po co to wezwanie? Nast\u0119pna misja?\". Gonitw\u0119 my\u015Bli przerywa wej\u015Bcie
+    nadwornego Maga \"Tobenie, Kr\xF3lowa pragnie ci\u0119 widzie\u0107 niezw\u0142ocznie.
+    Od tego zale\u017Cy jej \u017Cycie i honor\".\r\nCo robisz? : \r\n\r\n1 - Odmawiasz
+    i idziesz na wezwanie Kr\xF3la\r\n2 - Podo\u0105\u017Casz za Magiem do Kr\xF3lowej.
+    W ko\u0144cu wezwanie do kr\xF3la nie by\u0142o niezw\u0142oczne."
+  nextStates:
+  - {fileID: 11400000, guid: 3bf2ae46fdb38c447aff78a269fbfa40, type: 2}
+  - {fileID: 11400000, guid: f4deb77023e985442805f868a451acfc, type: 2}
