@@ -2,5 +2,6 @@ Siedzisz w Zbrojowni. od kilku godzin czyœcisz swoj¹ zbrojê i broñ, gdy¿ przez o
 przez w miêdzy czasie zapoznaæ siê z rdz¹. Nagle wpada pos³aniec"Panie, nasz W³adca ciê wzywa!". Pos³aneic odchodzi, a ty zazynasz zak³adaæ rynsztunek.
 Myœli ko³acz¹ ci siê po g³owie "Czy coœ przeskroba³em? PO co to wezwanie? Nastêpna misja?". Gonitwê myœli przerywa wejœcie nadwornego Maga "Tobenie, Królowa pragnie ciê widzieæ niezw³ocznie. Od tego zale¿y jej ¿ycie i honor".
 Co robisz? : 
-1 - odmawiasz i idziesz na wezwanie Króla
-2 - podo¹¿asz za Magiem do Królowej. W koñcu wezwanie do króla nie by³o niezw³oczne.
+
+1 - Odmawiasz i idziesz na wezwanie Króla
+2 - Podo¹¿asz za Magiem do Królowej. W koñcu wezwanie do króla nie by³o niezw³oczne.
