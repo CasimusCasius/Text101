@@ -13,4 +13,6 @@ MonoBehaviour:
   m_Name: Room1
   m_EditorClassIdentifier: 
   storyText: "To pok\xF3jj pierwszy"
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: f4deb77023e985442805f868a451acfc, type: 2}
+  - {fileID: 11400000, guid: 2339b1dcb3441644bb157161eda8f0c4, type: 2}

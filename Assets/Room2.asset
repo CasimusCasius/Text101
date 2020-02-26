@@ -13,4 +13,6 @@ MonoBehaviour:
   m_Name: Room2
   m_EditorClassIdentifier: 
   storyText: "Wybra\u0142e\u015B z\u0142y pok\xF3j"
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 3bf2ae46fdb38c447aff78a269fbfa40, type: 2}
+  - {fileID: 11400000, guid: 2339b1dcb3441644bb157161eda8f0c4, type: 2}
